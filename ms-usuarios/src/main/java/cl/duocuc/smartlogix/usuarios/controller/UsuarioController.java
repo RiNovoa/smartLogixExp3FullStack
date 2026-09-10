@@ -1,4 +1,4 @@
-package main.java.cl.duocuc.smartlogix.usuarios.controllers;
+package cl.duocuc.smartlogix.usuarios.controller;
 
 import cl.duocuc.smartlogix.usuarios.model.Usuario;
 import cl.duocuc.smartlogix.usuarios.service.UsuarioService;

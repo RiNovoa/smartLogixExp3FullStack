@@ -1,4 +1,4 @@
-package main.java.cl.duocuc.smartlogix.usuarios.models;
+package cl.duocuc.smartlogix.usuarios.model;
 
 import jakarta.persistence.*;
 import java.time.LocalDateTime;

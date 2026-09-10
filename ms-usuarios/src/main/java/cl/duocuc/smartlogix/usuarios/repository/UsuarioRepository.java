@@ -1,5 +1,5 @@
-package main.java.cl.duocuc.smartlogix.usuarios.repositories;
-import com.smartlogix.usuarios.models.Usuario;
+package cl.duocuc.smartlogix.usuarios.repository;
+import cl.duocuc.smartlogix.usuarios.model.Usuario;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
